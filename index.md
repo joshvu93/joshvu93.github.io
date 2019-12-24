@@ -9,3 +9,9 @@
 [Source Code](https://pure-citadel-39081.herokuapp.com/)
 
 ---
+
+### SlackBot for San Diego Code School
+
+Coming Soon!
+
+---

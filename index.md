@@ -13,5 +13,3 @@
 ### SlackBot for San Diego Code School
 
 Coming Soon!
-
----
